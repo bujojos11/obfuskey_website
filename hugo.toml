@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.ofbsukey.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ObfusKey'
 theme = 'paige'
 
 [params.paige]
